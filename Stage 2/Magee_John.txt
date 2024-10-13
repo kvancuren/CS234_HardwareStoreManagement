@@ -3,4 +3,6 @@ Stage 2: Hardware Store
 
 I was responsible for the Blocks in the UML diagram containing Customers, Payements, Checkout, Customerpurchases, and Customer Rewards Program.
 
+These classes will be responsible for collecting customer information, purchase totals, and payment type infromation. 
+
 
