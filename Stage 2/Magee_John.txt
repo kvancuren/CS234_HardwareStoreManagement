@@ -1,6 +1,6 @@
 John Magee
 Stage 2: Hardware Store 
 
-I was responsible for the Blocks in the UML diagram comtaining Customers, Payements, Checkout, Customerpurchases, and Customer Rewards Program.
+I was responsible for the Blocks in the UML diagram containing Customers, Payements, Checkout, Customerpurchases, and Customer Rewards Program.
 
 
