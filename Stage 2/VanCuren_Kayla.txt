@@ -1,1 +1,10 @@
+Kayla Van Curen
+Stage 2: Hardware Store
 
+I worked on all of the manager's stuff. I worked on manager, sales, reports, employees, inventory, items, schedule, and setting up the menu.
+
+Depending on whether the employee uses a managers number or a regular employees number will determine if they get the other options. 
+The regular employees will get to see things like customers, checkout, see their schedule, and look up items and see where they are. 
+
+The manager will have the option to print reports, look at inventory, sales, and create the employee schedule, and get to change the prices of items. 
+The manager can go in and change employee and customer information and change any other data in the system. 
