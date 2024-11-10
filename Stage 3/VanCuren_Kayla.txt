@@ -3,9 +3,4 @@ CS 234
 11/10/2024
 Hardware Store Management
 
-Since my team member withdrew from the class, that left me all alone. 
-I did everything alone. I know that I didn't get everything split up into 
-multiple java files but I couldn't get it to run like that. I waited to 
-long to start coding and ran out of time. I have no one to blame but myself
-and will be re-coding to make sure that the next part will but up to the 
-standard that you are wanting. 
+Since my team member withdrew from the class, that left me all alone. I did everything alone. I know that I didn't get everything split up into multiple java files but I couldn't get it to run like that. I waited to long to start coding and ran out of time. I have no one to blame but myselfand will be re-coding to make sure that the next part will but up to the standard that you are wanting. 
